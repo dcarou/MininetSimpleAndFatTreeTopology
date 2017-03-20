@@ -8,8 +8,11 @@ Creating and Testing a Simple and Fat Tree Topology using Mininet VM
 * Needs Mininet VM and Python Compiler in order to properly run the file.
 * Mininet VM: https://github.com/mininet/mininet/wiki/Mininet-VM-Images
 * Python Compiler: https://www.python.org/downloads/
+* Install Python Compiler on Host Computer
 * Start Mininet VM
-* Run the following command: sudo python -tt mininet.py
+* Check IP Address of Mininet
+* Start an SSH Remote Session between Host Computer and Mininet VM.
+* Run the following command on Host Computer: sudo python -tt mininet.py
 
 ### Author ###
 
