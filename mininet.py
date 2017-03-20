@@ -1,10 +1,6 @@
 ############################################
-#  Protocolos em Redes de Dados 2016/2017
-#  Projeto 1
-#  Diogo Carou - 41907
-#  Rui Calado - 40378
+# @dcarou - diogo@dcarou.com
 ############################################
-
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 from mininet.topo import Topo
