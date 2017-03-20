@@ -12,7 +12,7 @@ Creating and Testing a Simple and Fat Tree Topology using Mininet VM
 * Start Mininet VM
 * Check IP Address of Mininet
 * Start an SSH Remote Session between Host Computer and Mininet VM.
-* Run the following command on Host Computer: sudo python -tt mininet.py
+* Run the following command: sudo python -tt mininet.py
 
 ### Author ###
 
