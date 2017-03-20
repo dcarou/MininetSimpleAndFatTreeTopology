@@ -1,5 +1,5 @@
 # Mininet Simple And Fat Tree Topology
-Creating and Testing a Simple and Fat Tree Topology using Mininet VM
+Creating and Testing Simple and Fat Tree Topologies using Mininet VM
 
 
 
