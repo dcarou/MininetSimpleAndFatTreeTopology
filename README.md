@@ -1,4 +1,4 @@
-# MininetSimpleAndFatTreeTopology
+# Mininet Simple And Fat Tree Topology
 Creating and Testing a Simple and Fat Tree Topology using Mininet VM
 
 Needs Mininet VM and Python Compiler in order to properly run the file.
